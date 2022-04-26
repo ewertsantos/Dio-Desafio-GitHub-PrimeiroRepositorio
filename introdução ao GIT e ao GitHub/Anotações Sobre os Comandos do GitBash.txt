@@ -1,0 +1,5 @@
+$ git clone (link) - Clonar repositório
+$ gity git status - Status da pasta
+$ git add . - Para subir no GitHub
+$ git commit -m (Texto informativo entre aspas"") - Para nomear pasta no repositório
+$ git pusch origin main - Para enviar go Git ao GitHub

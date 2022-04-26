@@ -1,1 +1,0 @@
-O GitBasch é um terminal extendido.
